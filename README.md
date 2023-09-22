@@ -1,2 +1,13 @@
-# fecc
-Fare End Camera Control for Pexip WebApp3 Plugin
+# Getting started
+
+## Run the plugin
+
+```
+yarn start
+```
+
+## Build the plugin
+
+```
+yarn build
+```
