@@ -1,6 +1,6 @@
 # Getting started
 
-From a Pexip meeting (VMR), connect (add participant) to a video system supporting Far End Camera Control (FECC) and utilise control to select (& spotlight) a video room.
+From a Pexip meeting (VMR), connect (add participant) to a video system supporting Far End Camera Control (FECC) and utilise control to select (& spotlight) a video room via a web popup for UX control.
 
 Then use arrow keys (Left\Right\Up\Down) to chnage the camera position.  Use mouse scroll to zoom In and Out.
 
